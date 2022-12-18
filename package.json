@@ -1,0 +1,18 @@
+{
+  "name": "dbms-project",
+  "version": "1.0.0",
+  "description": "Academic Performance Tracking System",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaditya Barve",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "exceljs": "^4.2.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.5",
+    "xlsx": "^0.16.9"
+  }
+}
